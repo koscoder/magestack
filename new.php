@@ -2,5 +2,6 @@
 
 phpinfo();
 
+echo "test";
 
 ?>
